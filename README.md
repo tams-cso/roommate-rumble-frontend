@@ -1,4 +1,4 @@
-# Roommate Rumble App
+﻿# Roommate Rumble App
 
 Welcome to the official TAMS 2020 Roommate Matching App! This description will be updated as we go along, to reflect our design, structure, and user flow. 
 
@@ -7,7 +7,7 @@ To contribute, check out the issues tab in this GitHub repository and assign you
 1. Create a branch off of master.
 2. Make the changes specified in the issue.
 3. As you go along, push the branch and continue to make updates.
-4. Open a pull request with `[WIP]` (work in progress) in the title, describing the changes you've made.
+4. Open a pull request with `[WIP]` (work in progress) in the title, following the pull request template.
 5. When you're done, request a PR review by tagging the CSO team and we'll get your changes reviewed and approved as soon as possible.
 If any of this is confusing to you, just ask a CSO exec and we'll help you get set up!
 
