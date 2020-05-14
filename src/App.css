@@ -36,3 +36,57 @@
     transform: rotate(360deg);
   }
 }
+
+#Left{
+  text-align: left;
+}
+
+#TitleCard
+{
+  text-align: center;
+  width: 40%;
+  height: 40%;
+  outline: 1px solid black;
+  margin-left: 30%;
+  margin-top: 10%;
+}
+
+#TitleText
+{
+  font-weight: lighter;
+  margin-bottom: 0px;
+}
+
+#Text
+{
+  word-wrap: normal;
+  padding: 10px;
+  text-align: center;
+}
+
+#LogIn
+{
+  width: 20%;
+  font-size: 1rem;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: #886388;
+  background-color: #ffb3ff;
+  border: none;
+}
+
+#LogIn:hover
+{
+  color: #775277;
+  background-color: #eea3ee;
+}
+
+@media screen and (max-width: 640px){
+  #TitleCard{
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 45%;
+  }
+}
