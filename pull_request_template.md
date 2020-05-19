@@ -21,4 +21,4 @@ Please delete options that are not relevant.
 - My changes generate no new warnings
 - I have checked my code and corrected any misspellings
 
-@cso-tams/cso-execs
+@tams-cso/cso-execs
