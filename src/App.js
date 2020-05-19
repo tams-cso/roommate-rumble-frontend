@@ -18,13 +18,13 @@ function App() {
         <nav>
           <ul>
             <li>
-              <Link to="/">Home</Link>
+              <Link to={process.env.PUBLIC_URL + "/"}>Home</Link>
             </li>
             <li>
-              <Link to="/dashboard">Dashboard</Link>
+              <Link to={process.env.PUBLIC_URL + "/dashboard"}>Dashboard</Link>
             </li>
             <li>
-              <Link to="/otherpage">Otherpage</Link>
+              <Link to={process.env.PUBLIC_URL + "/otherpage"}>Otherpage</Link>
             </li>
           </ul>
         </nav>
@@ -32,13 +32,13 @@ function App() {
         {/* A <Switch> looks through its children <Route>s and
             renders the first one that matches the current URL. */}
         <Switch>
-          <Route path="/dashboard">
+          <Route path={process.env.PUBLIC_URL + "/dashboard"}>
             <Dashboard />
           </Route>
-          <Route path="/otherpage">
+          <Route path={process.env.PUBLIC_URL + "/otherpage"}>
             <Otherpage />
           </Route>
-          <Route path="/">
+          <Route path={process.env.PUBLIC_URL + "/"}>
             <Home />
           </Route>
         </Switch>
