@@ -38,7 +38,7 @@ class PersonModal extends React.Component {
             return null
         }
         return(
-            <Modal className='bg-primary text-white' show={this.props.show} onHide={this.closeModal} centered size="lg">
+            <Modal show={this.props.show} onHide={this.closeModal} centered size="lg">
                 <Modal.Header closeButton>
                     <Modal.Title>{this.props.person.name}</Modal.Title>
                 </Modal.Header>
