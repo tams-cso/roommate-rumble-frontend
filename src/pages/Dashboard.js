@@ -38,7 +38,7 @@ class PersonModal extends React.Component {
             return null
         }
         return(
-            <Modal show={this.props.show} onHide={this.closeModal} centered size="lg">
+            <Modal className='bg-primary text-white' show={this.props.show} onHide={this.closeModal} centered size="lg">
                 <Modal.Header closeButton>
                     <Modal.Title>{this.props.person.name}</Modal.Title>
                 </Modal.Header>
@@ -150,7 +150,7 @@ function Dashboard() {
                         <Col>matchTAMS</Col>
                     </Row>
                     <Row>
-                        <Col><h1 className='display-4'>{DemoUser.name}</h1></Col>
+                        <Col><h1 className='display-5'>{DemoUser.name}</h1></Col>
                     </Row>
                 </Col>
                 <Col>
