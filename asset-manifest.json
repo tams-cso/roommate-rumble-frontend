@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/roommate-rumble-frontend/static/css/main.b98de666.chunk.css",
+    "main.js": "/roommate-rumble-frontend/static/js/main.a893e5c3.chunk.js",
+    "main.js.map": "/roommate-rumble-frontend/static/js/main.a893e5c3.chunk.js.map",
+    "runtime-main.js": "/roommate-rumble-frontend/static/js/runtime-main.71ced8ad.js",
+    "runtime-main.js.map": "/roommate-rumble-frontend/static/js/runtime-main.71ced8ad.js.map",
+    "static/js/2.d5402c1b.chunk.js": "/roommate-rumble-frontend/static/js/2.d5402c1b.chunk.js",
+    "static/js/2.d5402c1b.chunk.js.map": "/roommate-rumble-frontend/static/js/2.d5402c1b.chunk.js.map",
+    "index.html": "/roommate-rumble-frontend/index.html",
+    "precache-manifest.c85a7db16a0b662ea4a22a93f2128d54.js": "/roommate-rumble-frontend/precache-manifest.c85a7db16a0b662ea4a22a93f2128d54.js",
+    "service-worker.js": "/roommate-rumble-frontend/service-worker.js",
+    "static/css/main.b98de666.chunk.css.map": "/roommate-rumble-frontend/static/css/main.b98de666.chunk.css.map",
+    "static/js/2.d5402c1b.chunk.js.LICENSE.txt": "/roommate-rumble-frontend/static/js/2.d5402c1b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/roommate-rumble-frontend/static/media/logo.ee7cd8ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71ced8ad.js",
+    "static/js/2.d5402c1b.chunk.js",
+    "static/css/main.b98de666.chunk.css",
+    "static/js/main.a893e5c3.chunk.js"
+  ]
+}
