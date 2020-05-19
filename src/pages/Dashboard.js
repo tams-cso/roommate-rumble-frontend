@@ -1,5 +1,7 @@
 import React from 'react';
-import {Container, Row, Col, Card} from 'react-bootstrap'
+import {Container, Row, Col, Card, Button} from 'react-bootstrap'
+import {FontAwesomeIcon} from '@fortawesome/react-fontawesome'
+import {faBars} from '@fortawesome/free-solid-svg-icons'
 import '../App.scss'
 
 //The Demo User's data
@@ -74,9 +76,9 @@ function Dashboard() {
                     </Row>
                 </Col>
                 <Col>
-                    <button className='float-right'>
-                        OKAY MATE
-                    </button>
+                    <Button variant="outline-primary" size='lg' className='float-right'>
+                        <FontAwesomeIcon icon={faBars} />
+                    </Button>
                 </Col>
             </Row>
         </Container>
