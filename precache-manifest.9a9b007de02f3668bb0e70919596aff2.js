@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "96cd0fa6dc6f728620ff402dc5b44ef3",
+    "revision": "2265f0c9f961f4975064f3d5fcc96bcb",
     "url": "/roommate-rumble-frontend/index.html"
   },
   {
-    "revision": "dc1a3877dd9ce5aa4fdc",
+    "revision": "8fd8bd8a5b97bddc746f",
     "url": "/roommate-rumble-frontend/static/css/main.b98de666.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/roommate-rumble-frontend/static/js/2.d5402c1b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dc1a3877dd9ce5aa4fdc",
-    "url": "/roommate-rumble-frontend/static/js/main.a893e5c3.chunk.js"
+    "revision": "8fd8bd8a5b97bddc746f",
+    "url": "/roommate-rumble-frontend/static/js/main.477d3d00.chunk.js"
   },
   {
     "revision": "92f71921ece2ad5ddb1e",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/roommate-rumble-frontend/precache-manifest.c85a7db16a0b662ea4a22a93f2128d54.js"
+  "/roommate-rumble-frontend/precache-manifest.9a9b007de02f3668bb0e70919596aff2.js"
 );
 
 self.addEventListener('message', (event) => {
